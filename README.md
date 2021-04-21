@@ -6,7 +6,7 @@ Basic tools for Littre analysis (which is a French dictionary)
 Some example of the functions of the Littre() class are given below:
 * get_definition() : returns the definition of any given word
 * print_longest/shortest_def() : prints a list of words for which the definition is the longest (the shortest). It appeared that the french words "prendre" ("take"), "main" ("hand") and "faire" ("do") have the longest definition according to the Littre
-* print_most/least_narcissistic : prints the most (the least) narcissistics words of the dictionary. The narcissistic number of a given word is the number of times that word quotes itself in its definition
+* print_most/least_narcissistic() : prints the most (the least) narcissistics words of the dictionary. The narcissistic number of a given word is the number of times that word quotes itself in its definition
 * plot_adjacency_matrix() : plots the adjacency matrix of the dictionary. In this structure, the nodes are the entries and the edges are defined by the definition sets.
 
 Following Umberto's Eco literary essay "Opera aperta" (1962), I developped a tool that automatically assesses the poeticity of a given text.
