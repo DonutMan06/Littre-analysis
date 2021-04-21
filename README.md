@@ -27,7 +27,7 @@ import littre
 x = littre.Littre()
 ```
 
-## Improvements and knwon issues
+## Improvements and known issues
 
 * the poeticity matrix computation should be improved
 * perhaps I should have split all the functions in the module instead of creating a big class
