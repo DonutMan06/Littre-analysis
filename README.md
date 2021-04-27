@@ -20,6 +20,8 @@ I analyzed a poem from Breton & Soupault "Les Champs Magnétiques" (1920). Its p
 That is to say that, according to the Littre, any given word has no relation with most of the other words.
 A solution for this limitation might be to use iterates of the dictionary to arbitrarly densify the adjacency matrix. That is to say : making bigger sets by looking at the definitions of words included in the definition list of any entry.
 
+A more detailed presentation of the results obtained with this module can be found on my [personal blog](http://blog.les-vigneron.fr/litterature/pourriture-panee/) (but it's in french).
+
 ## Usage
 
 ```python
